@@ -1,2 +1,2 @@
-# santhosh-shell-example-project-
+# santhosh-shell-example-project
 Shell Scripting example project
